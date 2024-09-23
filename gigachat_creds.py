@@ -1,0 +1,5 @@
+client_secret = ''
+auth_data = ''
+modelGigaChat = 'GigaChat'
+modelGigaChat_Plus = 'GigaChat-Plus'
+modelGigaChat_Pro = 'GigaChat-Pro'
